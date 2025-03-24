@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-03-24T02:57:13Z",
+  "source": "myapp.siscom.id",
+  "rates": [
+  {
+    "code": "USD0",
+    "denomination": "100 ( M / P / Q NEW )",
+    "buyRate": 16290.00,
+    "sellRate": 16390.00,
+    "buyRateFormatted": "16,290.00",
+    "sellRateFormatted": "16,390.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/fb8ad5e42a5fe34dcf00259f0c1d9e6e.png"
+  },
+  {
+    "code": "EUR0",
+    "denomination": "500 - 200 - 100 - 50",
+    "buyRate": 16800.00,
+    "sellRate": 16950.00,
+    "buyRateFormatted": "16,800.00",
+    "sellRateFormatted": "16,950.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/7f808f32fc0a3d497a15815a3a28e7f6.png"
+  },
+  {
+    "code": "SGD1",
+    "denomination": "100 - 50",
+    "buyRate": 12050.00,
+    "sellRate": 12100.00,
+    "buyRateFormatted": "12,050.00",
+    "sellRateFormatted": "12,100.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/b775d2d0a6ed903d5f17750cd933804c.png"
+  },
+  {
+    "code": "AUD0",
+    "denomination": "100 - 50",
+    "buyRate": 10220.00,
+    "sellRate": 10320.00,
+    "buyRateFormatted": "10,220.00",
+    "sellRateFormatted": "10,320.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/b7a38820c89e8e35408959a0e13e0cbd.png"
+  },
+  {
+    "code": "MYR0",
+    "denomination": "100 - 50",
+    "buyRate": 3675.00,
+    "sellRate": 3695.00,
+    "buyRateFormatted": "3,675.00",
+    "sellRateFormatted": "3,695.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/4593583599bb7a662efa86fb9bb5c633.png"
+  },
+  {
+    "code": "THB0",
+    "denomination": "1000 - 500",
+    "buyRate": 484.00,
+    "sellRate": 488.00,
+    "buyRateFormatted": "484.00",
+    "sellRateFormatted": "488.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/0a290d05403be8ee3fce5df222816e12.png"
+  },
+  {
+    "code": "CNY0",
+    "denomination": "100",
+    "buyRate": 2240.00,
+    "sellRate": 2260.00,
+    "buyRateFormatted": "2,240.00",
+    "sellRateFormatted": "2,260.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/37c5c5a73174e4c08705cefd101e44c6.png"
+  },
+  {
+    "code": "SAR0",
+    "denomination": "500 - 200",
+    "buyRate": 4400.00,
+    "sellRate": 4450.00,
+    "buyRateFormatted": "4,400.00",
+    "sellRateFormatted": "4,450.00",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/a64f108849f3442b007d2aae3a05a104.png"
+  },
+  {
+    "code": "JPY0",
+    "denomination": "10.000 -  5000",
+    "buyRate": 106.50,
+    "sellRate": 108.50,
+    "buyRateFormatted": "106.50",
+    "sellRateFormatted": "108.50",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/f7639d78340bcef66b9b6ed509619316.png"
+  },
+  {
+    "code": "KRW0",
+    "denomination": "10.000 - 50.000",
+    "buyRate": 11.20,
+    "sellRate": 11.50,
+    "buyRateFormatted": "11.20",
+    "sellRateFormatted": "11.50",
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/ec33eaab26db6d94c11aa94cee4b92d4.png"
+  },
+  {
+    "code": "TWD0",
+    "denomination": "1000 - 500",
+    "buyRate": 489.00,
+    "sellRate": 494.00,
+    "buyRateFormatted": "489.00",
+    "sellRateFormatted": "494.00",
+    "imageUrl": ""
+  }
+],
+  "meta": {
+    "note": "Nilai tukar yang ditampilkan merupakan nilai indikasi yang dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu"
+  }
+}
