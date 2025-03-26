@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T02:57:13Z",
+  "timestamp": "2025-03-25T03:37:18Z",
   "source": "myapp.siscom.id",
   "rates": [
   {
@@ -9,7 +9,7 @@
     "sellRate": 16390.00,
     "buyRateFormatted": "16,290.00",
     "sellRateFormatted": "16,390.00",
-    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/fb8ad5e42a5fe34dcf00259f0c1d9e6e.png"
+    "imageUrl": "https://myapp.siscom.id/custom/sismon/images/amu/product/427ca2baaa2074ce27be918bff2ae4fe.png"
   },
   {
     "code": "EUR0",
@@ -103,6 +103,8 @@
   }
 ],
   "meta": {
-    "note": "Nilai tukar yang ditampilkan merupakan nilai indikasi yang dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu"
+    "note": "Nilai tukar yang ditampilkan merupakan nilai indikasi yang dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu",
+    "lastUpdate": "Selasa, 25 Maret 2025 10:21",
+    "updatedBy": "Update By A05 #00018"
   }
 }
